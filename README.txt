@@ -1,3 +1,5 @@
+TRIGGER JENKINS BUILDS BY PUSHING TO GITHUB 1
+
 README.txt for version 7.3 of Vim: Vi IMproved.
 
 
